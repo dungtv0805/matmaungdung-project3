@@ -1,0 +1,5 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x00007f6fdff05231, pid=11764, tid=11781
+#

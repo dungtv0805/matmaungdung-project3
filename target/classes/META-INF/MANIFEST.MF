@@ -1,5 +1,8 @@
 Manifest-Version: 1.0
 Built-By: helloword
 Build-Jdk: 14.0.2
+Class-Path: . lib/guava-20.0.jar lib/commons-io-2.5.jar lib/commons-code
+ c-1.15.jar
+Main-Class: com.project3.common
 Created-By: Maven Integration for Eclipse
 
